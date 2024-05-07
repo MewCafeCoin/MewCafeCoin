@@ -62,7 +62,7 @@ Actively Exploring:
 
 <a href="https://whitepaper.mewcafecoin.io/" target="_blank">
   <img align="center" alt="whitepaper logo" height="50" width="50" src="assets/whitepaper.png"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a  href="https://twitter.com/MewCafeCoin" target="_blank">
   <img align="center" alt="twitter logo" height="50" width="50" src="assets/twitter.png"/>
@@ -74,6 +74,6 @@ Actively Exploring:
 
 <a href="mailto:contact@mewcafecoin.io" target="_blank">
   <img align="center" alt="gmail logo" height="50" width="50" src="assets/mail.png" />
-</a>
+</a>&nbsp;&nbsp;
   <a>
 </p> 
