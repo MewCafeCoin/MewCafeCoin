@@ -56,24 +56,24 @@ Actively Exploring:
   <h3 align="center">Connect With Me</h3>
 <p align="center">
 
-  <a class="btn btn-square rounded-circle bg-light text-primary me-2" href="https://mewcafecoin.io" target="_blank" aria-label="MewCafeCoin Website">
+<a href="https://mewcafecoin.io" target="_blank">
   <img align="center" alt="website logo" height="50" width="50" src="assets/website.png"/>
 </a>&nbsp;&nbsp;
 
-<a class="btn btn-square rounded-circle bg-light text-primary" href="https://whitepaper.mewcafecoin.io/" target="_blank" aria-label="MewCafeCoin Whitepaper">
+<a href="https://whitepaper.mewcafecoin.io/" target="_blank">
   <img align="center" alt="whitepaper logo" height="50" width="50" src="assets/whitepaper.png"/>
 </a>
-<a class="btn btn-square rounded-circle bg-light text-primary me-2" href="https://twitter.com/MewCafeCoin" target="_blank" aria-label="MewCafe Coin on Twitter">
+
+<a  href="https://twitter.com/MewCafeCoin" target="_blank">
   <img align="center" alt="twitter logo" height="50" width="50" src="assets/twitter.png"/>
 </a>&nbsp;&nbsp;
 
-<a class="btn btn-square rounded-circle bg-light text-primary me-2" href="https://t.me/mewcafecoin" target="_blank" aria-label="MewCafe Coin on Telegram">
+<a href="https://t.me/mewcafecoin" target="_blank">
   <img align="center" alt="telegram logo" height="50" width="50" src="assets/tg.png"/>
 </a>&nbsp;&nbsp;
 
-  <a href="mailto:contact@mewcafecoin.io" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assets/mail.png" />
-  </a> &nbsp;&nbsp;
-
+<a href="mailto:contact@mewcafecoin.io" target="_blank">
+  <img align="center" alt="gmail logo" height="50" width="50" src="assets/mail.png" />
+</a>
   <a>
 </p> 
