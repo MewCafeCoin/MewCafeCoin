@@ -29,7 +29,7 @@ Exploring Together:
 
 <div align="center">
   <h2> <strong> Coding Away </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=solidity,bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
 </div>
 
 <p align="center"><br>
